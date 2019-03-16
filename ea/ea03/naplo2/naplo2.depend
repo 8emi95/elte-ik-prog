@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1330427828 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo2\matrix_fill_keyboard.cpp
+	"matrix_fill_keyboard.h"
+	<iostream>
+	<sstream>
+	"read.h"
+
+1330427828 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo2\matrix_fill_keyboard.h
+	<vector>
+
+1330419116 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo2\read.h
+	<string>
+
+1330419774 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo2\read.cpp
+	"read.h"
+	<iostream>
+
+1330503132 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo2\main.cpp
+	<iostream>
+	<vector>
+	"matrix_fill_keyboard.h"
+	"read.h"
+
+1330503290 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\4\naplo2\matrix_fill_keyboard.cpp
+	"matrix_fill_keyboard.h"
+	<iostream>
+	<sstream>
+	"read.h"
+
+1330427828 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\4\naplo2\matrix_fill_keyboard.h
+	<vector>
+
+1330419116 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\4\naplo2\read.h
+	<string>
+
+1330419774 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\4\naplo2\read.cpp
+	"read.h"
+	<iostream>
+
+1330503132 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\4\naplo2\main.cpp
+	<iostream>
+	<vector>
+	"matrix_fill_keyboard.h"
+	"read.h"
+
+1330503290 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\4\naplo2\matrix_fill_keyboard.cpp
+	"matrix_fill_keyboard.h"
+	<iostream>
+	<sstream>
+	"read.h"
+
+1362574124 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\4\naplo2\matrix_fill_keyboard.h
+	<vector>
+
+1330419116 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\4\naplo2\read.h
+	<string>
+
+1330419774 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\4\naplo2\read.cpp
+	"read.h"
+	<iostream>
+
+1393582446 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\4\naplo2\main.cpp
+	<iostream>
+	<vector>
+	"matrix_fill_keyboard.h"
+	"read.h"
+
+1330503292 source:c:\users\greti\documents\oktatás\prog\elõadások\4\naplo2\matrix_fill_keyboard.cpp
+	"matrix_fill_keyboard.h"
+	<iostream>
+	<sstream>
+	"read.h"
+
+1362574124 c:\users\greti\documents\oktatás\prog\elõadások\4\naplo2\matrix_fill_keyboard.h
+	<vector>
+
+1330419116 c:\users\greti\documents\oktatás\prog\elõadások\4\naplo2\read.h
+	<string>
+
+1330419774 source:c:\users\greti\documents\oktatás\prog\elõadások\4\naplo2\read.cpp
+	"read.h"
+	<iostream>
+

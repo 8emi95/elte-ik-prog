@@ -1,0 +1,72 @@
+Virág:
+string sor;
+    getline(x,sor);
+    if(x.fail())
+    {
+        vege = true;
+    }
+    else
+    {
+        stringstream ss(sor);
+        ss>>akt.nev>>akt.mezony;
+    }
+    string sor2;
+    getline(x,sor2);
+    if(x.fail())
+    {
+        vege = true;
+    }
+    else
+    {
+        stringstream ss(sor2);
+        ss>>akt.csapat1>>akt.csapat2;
+    }
+***
+JÓ
+
+
+
+
+
+
+Mira:
+while(!ss.fail() && !szam(p.nevek))
+{
+ blaa..
+}
+
+bool Enor::szam(int s)
+{
+    return 1 == s.lenght() &&
+            isdigit(s[0]);
+}
+***
+size() a függvény, és ez akkor és csak akkor jó ha egy darab számjegy
+
+
+
+blabal:
+Próba pót géptermi ZH – 2016.  Egy szekvenciális inputfájlban egy étterem esti rendelései adottak. Az elsõ sor az ételek rövidítését tartalmazza whitespace-ekkel elválasztva. Minden további sor egy rendelést ír le az alábbi formában: asztalszám idõ adag típus … adag típus •	Az asztalszám egy 1 és 20 közötti szám. •	Az idõ egy dd:dd alakú string, ahol a : elõtti két számjegy az órát (18-23), az az utáni pedig a percet (00-59) adja meg. •	Az  adag egy szám, ami azt mutatja, hogy az adott ételbõl mennyit rendeltek. •	A típus pedig egy étel rövidítése. Egy rendelésben egy vagy több féle étel megrendelése is szerepelhet.   Az egyes tagokat whitespace-ek választják el egymástól. A rendelések (sorok) idõrendi sorrendben vannak. Feltehetjük, hogy a fájl formátuma megfelel a fentieknek.  Például: CSIR STEAK RAGU PITE SULT 12 18:31 2 RAGU 4 PITE 3  19:26 3 CSIR 4  20:13 2 SULT 1 PITE 10 22:43 2 CSIR 2 STEAK 12 22:52 1 RAGU 1 SULT 3 CSIR  A fájlt összesen egyszer járjuk be; ne használjunk a fájl sorainak számától függõ tárolót; a megoldás során használt ciklusok egy-egy programozási tételre való visszavezetés eredményeképp jöjjenek létre (ezeket kommentben jelöljük); használjunk felsorolót, melyet egy osztály formájában implementáljunk! 3-asért: •	Írjuk ki a konzolra, hogy nyolc óra után (20:01-tõl) hány adagot rendeltek az elsõ fajta ételbõl, azaz csirkébõl (CSIR). (példában: 5) 5-ösért: A 3-as szinten túl válaszoljuk meg a következõ kérdést is: •	Igaz-e, hogy hat és  fél nyolc között (18:00-tól 19:30-ig) mindig több félét rendeltek egyszerre? (példában: hamis, lásd 3-as asztal)
+
+
+
+int osszes=0;
+    for(t.First();!t.End();t.Next())
+    {
+   int reszosszeg = 0;
+        Adat c = t.Current();
+        /*cout<<c.asztalszam<<" "<<c.ido<<" ";
+        for(size_t i=0; i<c.p.size(); ++i)
+        {
+            cout<<c.p[i].adag<<" "<<c.p[i].tipus<<" ";
+        }
+        cout<<endl;*/
+        for(size_t i=0; i<c.p.size();++i)
+        {
+            if(c.p[i].tipus == "CSIR" && c.ido>"20:01" )
+            {
+                reszosszeg=reszosszeg+c.p[i].adag;
+            }
+        }
+osszes += reszosszeg;
+    }

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462136528 source:d:\dokumentumok\egyetem\programozás\1. beadandó\kozelacel\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1462204046 source:d:\elte\15162\prog\prog_bead\virdzsi\kozelacel\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+

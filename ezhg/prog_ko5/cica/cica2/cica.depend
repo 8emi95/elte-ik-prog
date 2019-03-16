@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1464113486 source:c:\users\8emi95\desktop\prog_ko5\cica\cica\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<sstream>
+
+1464114052 c:\users\8emi95\desktop\prog_ko5\cica\cica\enor.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1464114058 source:c:\users\8emi95\desktop\prog_ko5\cica\cica\main.cpp
+	<iostream>
+	"enor.h"
+
+1464114058 source:c:\users\8emi95\desktop\prog_ko5\cica\cica\main2.cpp
+	<iostream>
+	"enor.h"
+
+1464116008 source:c:\users\8emi95\desktop\prog_ko5\cica\cica2\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<sstream>
+
+1464115158 c:\users\8emi95\desktop\prog_ko5\cica\cica2\enor.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1464115925 source:c:\users\8emi95\desktop\prog_ko5\cica\cica2\main.cpp
+	<iostream>
+	"enor.h"
+

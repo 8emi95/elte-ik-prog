@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1461578963 source:c:\users\greti\documents\oktatás\prog\elõadások\10\atlagok\enor.cpp
+	"enor.h"
+
+1461582561 c:\users\greti\documents\oktatás\prog\elõadások\10\atlagok\enor.h
+	<string>
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1461578977 source:c:\users\greti\documents\oktatás\prog\elõadások\10\atlagok\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	"enor.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457026941 source:d:\elte\1516_2\prog\prog_gy\prog_gy4\prog_gy4\main.cpp
+	<iostream>
+
+1461433482 source:d:\elte\15162\prog\prog_gy\prog_gy4\g\prog_gy4\main.cpp
+	<iostream>
+	<vector>
+

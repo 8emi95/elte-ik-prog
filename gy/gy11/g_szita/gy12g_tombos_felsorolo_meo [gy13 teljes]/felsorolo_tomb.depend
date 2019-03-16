@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1462345683 source:d:\elte\15162\prog\prog_gy\prog_gy12\g_szita\gy12g_tombos_felsorolo_meo\enor_interval.cpp
+	"enor_interval.h"
+
+1462345597 d:\elte\15162\prog\prog_gy\prog_gy12\g_szita\gy12g_tombos_felsorolo_meo\enor_interval.h
+
+1462345721 source:d:\elte\15162\prog\prog_gy\prog_gy12\g_szita\gy12g_tombos_felsorolo_meo\enor_tomb.cpp
+	"enor_tomb.h"
+
+1462345869 d:\elte\15162\prog\prog_gy\prog_gy12\g_szita\gy12g_tombos_felsorolo_meo\enor_tomb.h
+	<cstdlib>
+	<vector>
+
+1463845614 source:d:\elte\15162\prog\prog_gy\prog_gy12\g_szita\gy12g_tombos_felsorolo_meo\main.cpp
+	<iostream>
+	<vector>
+	"enor_interval.h"
+	"enor_tomb.h"
+

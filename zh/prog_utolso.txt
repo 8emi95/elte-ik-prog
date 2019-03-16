@@ -1,0 +1,67 @@
+// BALQAAI.ELTE - Balance :)
+// Programozás utcsó ZH-ra
+
+#include <iostream>
+#include <fstream>
+#include <sstream>
+
+using namespace std;
+
+class file
+{
+    private:
+        ifstream input;
+    public:
+        void be();
+        void ki();
+};
+
+    void file::be()
+    {
+        string f_in;
+        cout << "Kerem az adat file neve't: ";
+        cin >> f_in;
+
+        input.open(f_in.c_str());
+        if(input.fail()) {
+            cout << "Hibas fajlnev!\n";
+            input.clear();
+        }
+    }
+
+    void file::ki()
+    {
+        ofstream output;
+        string f_out,azon;
+        int date;
+
+        cout << "Kerem a ce'l file neve't: ";
+        cin >> f_out;
+        output.open(f_out.c_str());
+        if(output.fail()) {
+            cout << "Nem sikerult a letrehozas\n";
+            output.clear();
+        }
+
+        while(!input.eof())
+        {
+            input >> azon;
+            input >> date;
+        }
+
+        // cout << azon << date;
+        input.close();
+    }
+
+
+
+
+int main()
+{
+
+    file adatok;
+    adatok.be();
+    adatok.ki();
+
+    return 0;
+}

@@ -1,0 +1,2 @@
+Antal		3
+Anti		-1

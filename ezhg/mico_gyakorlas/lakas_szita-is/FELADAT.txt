@@ -1,0 +1,7 @@
+Adott egy file, amiben egy lakás lakóinak bérleti díja és törlesztéseik találhatóak.
+A file szerkezete:
+Azonosító be_kell_fizetni dátum fizetés dátum fizetés...
+A be_kell_fizetni egy hónapra értendõ, viszont már 5 hónap telt el a nyilvántartás kezdete óta.
+Mennyi a lakás teljes anyagi hiánya jelenleg?
+Írjon ki egy azonosítót, aki a legtöbbet fizetett be.
+Minden lakás befizette az 5 havi bérelti díját?

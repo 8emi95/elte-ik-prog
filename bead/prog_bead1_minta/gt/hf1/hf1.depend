@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1232816892 source:c:\documents and settings\tibor\dokumentumok\programozás\beadandók\hf1\read.cpp
+	"read.h"
+	<iostream>
+
+1232816914 c:\documents and settings\tibor\dokumentumok\programozás\beadandók\hf1\read.h
+	<string>
+
+1232820492 source:c:\documents and settings\tibor\dokumentumok\programozás\beadandók\1\hf1\read.cpp
+	"read.h"
+	<iostream>
+
+1232820514 c:\documents and settings\tibor\dokumentumok\programozás\beadandók\1\hf1\read.h
+	<string>
+
+1258805248 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\beadandók\1\hf1\read.cpp
+	"read.h"
+	<iostream>
+
+1268225465 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\beadandók\1\hf1\read.h
+	<string>
+
+1268225376 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\beadandók\1\hf1\naplo.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"read.h"
+
+1268225464 source:c:\users\greti\documents\oktatás\programozás\beadandók\1\hf1\read.cpp
+	"read.h"
+	<iostream>
+
+1268225464 c:\users\greti\documents\oktatás\programozás\beadandók\1\hf1\read.h
+	<string>
+

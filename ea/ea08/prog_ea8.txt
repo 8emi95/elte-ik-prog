@@ -1,0 +1,16 @@
+A = (h set(Z), s:Z)
+Ef = h=h'
+Uf s=summa e
+    e eleme h'
+
+összeg + halmaz felsorolás
+t:enor(E) ~ h felsorolása
+E ~ Z
+f(e) ~ e
+(H,+,0) ~ (Z,+,0)
+
+s:=0
+h != 0 (for)
+ s:=s+mem(h)
+ h:=h+1
+

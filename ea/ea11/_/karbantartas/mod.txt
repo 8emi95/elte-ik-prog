@@ -1,0 +1,6 @@
+K   12  -8
+K   14   2
+K   15 -20
+T   16   
+B   17 Gárdonyi Géza  A láthatatlan ember  Szépirodalmi  1973   3 SZ 1823-D-7374
+T   25

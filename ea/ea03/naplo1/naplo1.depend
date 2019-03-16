@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1330427682 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo1\matrix_fill_file.cpp
+	"matrix_fill_file.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1330427682 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo1\matrix_fill_file.h
+	<vector>
+
+1330427680 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo1\main.cpp
+	<iostream>
+	<vector>
+	"matrix_fill_file.h"
+
+1330420236 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo1\matrix_fill_keyboard.cpp
+	"matrix_fill_keyboard.h"
+	<iostream>
+	<sstream>
+	"read.h"
+
+1330420298 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo1\matrix_fill_keyboard.h
+	<vector>
+
+1330419774 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo1\read.cpp
+	"read.h"
+	<iostream>
+
+1330419116 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\4\naplo1\read.h
+	<string>
+
+1330503077 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\4\naplo1\main.cpp
+	<iostream>
+	<vector>
+	"matrix_fill_file.h"
+
+1330427682 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\4\naplo1\matrix_fill_file.h
+	<vector>
+
+1330672610 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\4\naplo1\matrix_fill_file.cpp
+	"matrix_fill_file.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1362574226 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\4\naplo1\matrix_fill_file.h
+	<vector>
+
+1393582529 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\4\naplo1\main.cpp
+	<iostream>
+	<vector>
+	"matrix_fill_file.h"
+
+1330672610 source:c:\users\greti\documents\oktatás\prog\elõadások\4\naplo1\matrix_fill_file.cpp
+	"matrix_fill_file.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1362574226 c:\users\greti\documents\oktatás\prog\elõadások\4\naplo1\matrix_fill_file.h
+	<vector>
+
+1450508174 source:c:\users\greti\documents\oktatás\prog\elõadások\3\naplo1\main.cpp
+	<iostream>
+	<vector>
+	"matrix_fill_file.h"
+
+1362574226 c:\users\greti\documents\oktatás\prog\elõadások\3\naplo1\matrix_fill_file.h
+	<vector>
+

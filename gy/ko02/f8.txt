@@ -1,0 +1,12 @@
+Peti		2
+Misi		3
+Jani		10
+Eszti		2
+Jozsi		5
+Vili		1
+Zoli		3
+Virag		2
+Dori		2
+Kinga		0
+Sanyi		3
+Tobias		1

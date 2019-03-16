@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1451500022 source:f:\NEW\goodluck4\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+	"goodluck.h"
+	<sstream>
+
+1451502852 f:\NEW\goodluck4\goodluck.h
+	<string>
+	<string>
+	"investment.h"
+
+1451502934 source:f:\NEW\goodluck4\main.cpp
+	<iostream>
+	"goodluck.h"
+	<iostream>
+	"goodluck.h"
+	"badluck.h"
+
+1451500022 source:f:\NEW\goodluck4\badluck.cpp
+	"badluck.h"
+	<sstream>
+
+1451502852 f:\NEW\goodluck4\badluck.h
+	<string>
+	"investment.h"
+
+1451502870 f:\NEW\goodluck4\investment.h
+	<string>
+
+1451502956 source:f:\NEW\goodluck4\investment.cpp
+	"investment.h"
+	<sstream>
+
+1451548668 source:f:\new\goodluck4\badluck.cpp
+	"badluck.h"
+
+1451549028 f:\new\goodluck4\badluck.h
+	"investment.h"
+	"condition.h"
+	<string>
+
+1451549288 f:\new\goodluck4\investment.h
+	"condition.h"
+	<string>
+
+1451548928 f:\new\goodluck4\condition.h
+
+1451548970 source:f:\new\goodluck4\condition.cpp
+	"condition.h"
+
+1451548422 source:f:\new\goodluck4\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451549028 f:\new\goodluck4\goodluck.h
+	"investment.h"
+	"condition.h"
+	<string>
+
+1451548990 source:f:\new\goodluck4\investment.cpp
+	"investment.h"
+	<sstream>
+
+1451548484 source:f:\new\goodluck4\main.cpp
+	<iostream>
+	"goodluck.h"
+	"badluck.h"
+
+1452077618 source:f:\new\goodluck\goodluck4\badluck.cpp
+	"badluck.h"
+
+1452072668 f:\new\goodluck\goodluck4\badluck.h
+	"investment.h"
+	"condition.h"
+	<string>
+
+1452072290 f:\new\goodluck\goodluck4\investment.h
+	"condition.h"
+	<string>
+
+1452072752 f:\new\goodluck\goodluck4\condition.h
+
+1452077618 source:f:\new\goodluck\goodluck4\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1452072668 f:\new\goodluck\goodluck4\goodluck.h
+	"investment.h"
+	"condition.h"
+	<string>
+
+1452072752 source:f:\new\goodluck\goodluck4\investment.cpp
+	"investment.h"
+	<sstream>
+
+1452072692 source:f:\new\goodluck\goodluck4\main.cpp
+	<iostream>
+	"goodluck.h"
+	"badluck.h"
+
+1451931724 source:f:\new\goodluck\goodluck4\condition.cpp
+	"condition.h"
+
+1451931723 source:c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck4\condition.cpp
+	"condition.h"
+
+1451931784 c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck4\condition.h
+
+1451548422 source:c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck4\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451931513 c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck4\goodluck.h
+	"investment.h"
+	"condition.h"
+	<string>
+
+1451769904 c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck4\investment.h
+	"condition.h"
+	<string>
+
+1451931784 source:c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck4\investment.cpp
+	"investment.h"
+	<sstream>
+
+1451548484 source:c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck4\main.cpp
+	<iostream>
+	"goodluck.h"
+	"badluck.h"
+
+1451931513 c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck4\badluck.h
+	"investment.h"
+	"condition.h"
+	<string>
+
+1451931497 source:c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck4\badluck.cpp
+	"badluck.h"
+
+1452081218 source:c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck4\badluck.cpp
+	"badluck.h"
+
+1459785441 c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck4\badluck.h
+	"investment.h"
+	"condition.h"
+	<string>
+
+1459785441 c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck4\investment.h
+	"condition.h"
+	<string>
+
+1452076352 c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck4\condition.h
+
+1451935324 source:c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck4\condition.cpp
+	"condition.h"
+
+1452081218 source:c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck4\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1459785481 c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck4\goodluck.h
+	"investment.h"
+	"condition.h"
+	<string>
+
+1452076352 source:c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck4\investment.cpp
+	"investment.h"
+	<sstream>
+
+1459785441 source:c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck4\main.cpp
+	<iostream>
+	"goodluck.h"
+	"badluck.h"
+

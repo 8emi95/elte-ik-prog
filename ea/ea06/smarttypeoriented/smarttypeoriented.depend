@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1453803999 source:c:\users\greti\documents\oktatás\prog\elõadások\6\smarttypeoriented\bag.cpp
+	"bag.h"
+
+1453999550 c:\users\greti\documents\oktatás\prog\elõadások\6\smarttypeoriented\bag.h
+	<vector>
+
+1453999618 source:c:\users\greti\documents\oktatás\prog\elõadások\6\smarttypeoriented\main.cpp
+	<iostream>
+	<fstream>
+	"bag.h"
+

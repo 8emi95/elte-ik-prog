@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1451484166 source:f:\prog\goodluck\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451483902 f:\prog\goodluck\goodluck.h
+	<string>
+
+1451483982 source:f:\prog\goodluck\main.cpp
+	<iostream>
+	"goodluck.h"
+
+1451500022 source:f:\prog\goodluck2\badluck.cpp
+	"badluck.h"
+	<sstream>
+
+1451502852 f:\prog\goodluck2\badluck.h
+	<string>
+	"investment.h"
+
+1451502870 f:\prog\goodluck2\investment.h
+	<string>
+
+1451500022 source:f:\prog\goodluck2\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451502852 f:\prog\goodluck2\goodluck.h
+	<string>
+	"investment.h"
+
+1451502956 source:f:\prog\goodluck2\investment.cpp
+	"investment.h"
+	<sstream>
+
+1451502934 source:f:\prog\goodluck2\main.cpp
+	<iostream>
+	"goodluck.h"
+	"badluck.h"
+
+1451500022 source:f:\new\goodluck3\badluck.cpp
+	"badluck.h"
+	<sstream>
+
+1451549470 f:\new\goodluck3\badluck.h
+	"investment.h"
+	<string>
+
+1451549160 f:\new\goodluck3\investment.h
+	<string>
+
+1451500022 source:f:\new\goodluck3\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451549470 f:\new\goodluck3\goodluck.h
+	"investment.h"
+	<string>
+
+1451503164 source:f:\new\goodluck3\main.cpp
+	<iostream>
+	"goodluck.h"
+	"badluck.h"
+
+1451549160 source:f:\new\goodluck3\investment.cpp
+	"investment.h"
+	<sstream>
+
+1451500022 source:f:\new\goodluck\goodluck3\badluck.cpp
+	"badluck.h"
+	<sstream>
+
+1451764004 f:\new\goodluck\goodluck3\badluck.h
+	"investment.h"
+	<string>
+
+1451992662 f:\new\goodluck\goodluck3\investment.h
+	<string>
+
+1451991446 source:f:\new\goodluck\goodluck3\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451991446 f:\new\goodluck\goodluck3\goodluck.h
+	"investment.h"
+	<string>
+
+1451992702 source:f:\new\goodluck\goodluck3\investment.cpp
+	"investment.h"
+	<sstream>
+
+1451503164 source:f:\new\goodluck\goodluck3\main.cpp
+	<iostream>
+	"goodluck.h"
+	"badluck.h"
+
+1451500022 source:c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck3\badluck.cpp
+	"badluck.h"
+	<sstream>
+
+1451764004 c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck3\badluck.h
+	"investment.h"
+	<string>
+
+1451992660 c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck3\investment.h
+	<string>
+
+1451991444 source:c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck3\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451991444 c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck3\goodluck.h
+	"investment.h"
+	<string>
+
+1451992700 source:c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck3\investment.cpp
+	"investment.h"
+	<sstream>
+
+1451991444 source:c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck3\main.cpp
+	<iostream>
+	"goodluck.h"
+	"badluck.h"
+
+1451995046 source:c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck3\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451995046 c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck3\goodluck.h
+	"investment.h"
+	<string>
+
+1451996262 c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck3\investment.h
+	<string>
+
+1451996302 source:c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck3\investment.cpp
+	"investment.h"
+	<sstream>
+
+1452081238 source:c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck3\badluck.cpp
+	"badluck.h"
+	<sstream>
+
+1451767604 c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck3\badluck.h
+	"investment.h"
+	<string>
+

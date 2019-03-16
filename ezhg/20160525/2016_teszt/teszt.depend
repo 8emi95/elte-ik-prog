@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1464133947 source:d:\elte\15162\prog\prog_ezhg\2016_teszt\teszt\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<sstream>
+
+1464134166 d:\elte\15162\prog\prog_ezhg\2016_teszt\teszt\enor.h
+	<iostream>
+	<fstream>
+

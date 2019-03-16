@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1451643820 source:f:\new\halmazrepr\halmazrepr1\main.cpp
+	<iostream>
+	"set.h"
+
+1451643852 f:\new\halmazrepr\halmazrepr1\set.h
+	"setrepr.h"
+	"mapsetrepr.h"
+	"arraysetrepr.h"
+
+1451643786 f:\new\halmazrepr\halmazrepr1\setrepr.h
+
+1451643580 f:\new\halmazrepr\halmazrepr1\mapsetrepr.h
+	"setrepr.h"
+
+1451643580 f:\new\halmazrepr\halmazrepr1\arraysetrepr.h
+	"setrepr.h"
+
+1451643628 source:f:\new\halmazrepr\halmazrepr1\arraysetrepr.cpp
+	"arraysetrepr.h"
+	"set.h"
+
+1451643834 source:f:\new\halmazrepr\halmazrepr1\mapsetrepr.cpp
+	"mapsetrepr.h"
+	"set.h"
+
+1451643820 source:f:\new\halmazrepr_új\halmazrepr1\main.cpp
+	<iostream>
+	"set.h"
+
+1451643852 f:\new\halmazrepr_új\halmazrepr1\set.h
+	"setrepr.h"
+	"mapsetrepr.h"
+	"arraysetrepr.h"
+
+1451643786 f:\new\halmazrepr_új\halmazrepr1\setrepr.h
+
+1451896336 f:\new\halmazrepr_új\halmazrepr1\mapsetrepr.h
+	"setrepr.h"
+	<vector>
+
+1451896270 f:\new\halmazrepr_új\halmazrepr1\arraysetrepr.h
+	"setrepr.h"
+	<vector>
+
+1451643834 source:f:\new\halmazrepr_új\halmazrepr1\mapsetrepr.cpp
+	"mapsetrepr.h"
+	"set.h"
+
+1451896116 source:f:\new\halmazrepr_új\halmazrepr1\arraysetrepr.cpp
+	"arraysetrepr.h"
+	"set.h"
+
+1453021004 source:c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr1\arraysetrepr.cpp
+	"arraysetrepr.h"
+	"set.h"
+
+1453022518 c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr1\arraysetrepr.h
+	"setrepr.h"
+	<vector>
+
+1451643786 c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr1\setrepr.h
+
+1451643852 c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr1\set.h
+	"setrepr.h"
+	"mapsetrepr.h"
+	"arraysetrepr.h"
+
+1452972490 c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr1\mapsetrepr.h
+	"setrepr.h"
+	<vector>
+
+1451643820 source:c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr1\main.cpp
+	<iostream>
+	"set.h"
+
+1452972799 source:c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr1\mapsetrepr.cpp
+	"mapsetrepr.h"
+	"set.h"
+

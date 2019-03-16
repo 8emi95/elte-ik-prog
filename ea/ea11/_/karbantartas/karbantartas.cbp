@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="karbantartas" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\karbantartas" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\karbantartas" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="hiba.cpp" />
+		<Unit filename="hiba.h" />
+		<Unit filename="hiba.txt" />
+		<Unit filename="kozos.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mod.cpp" />
+		<Unit filename="mod.h" />
+		<Unit filename="mod.txt" />
+		<Unit filename="nyilv.txt" />
+		<Unit filename="torzs.cpp" />
+		<Unit filename="torzs.h" />
+		<Unit filename="ujnyilv.txt" />
+		<Unit filename="ujtorzs.cpp" />
+		<Unit filename="ujtorzs.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

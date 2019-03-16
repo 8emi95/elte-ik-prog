@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1451482950 source:f:\prog\goodluck\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451483322 f:\prog\goodluck\goodluck.h
+	<string>
+
+1451475214 source:f:\prog\goodluck\main.cpp
+	<iostream>
+	"goodluck.h"
+
+1451991121 source:c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck0\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451991111 c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck0\goodluck.h
+	<string>
+
+1451930681 source:c:\users\greti\documents\oktatás\prog\elõadások\goodluck\goodluck0\main.cpp
+	<iostream>
+	"goodluck.h"
+
+1451991122 source:f:\new\goodluck\goodluck0\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451991112 f:\new\goodluck\goodluck0\goodluck.h
+	<string>
+
+1452076108 source:f:\new\goodluck\goodluck0\main.cpp
+	<iostream>
+	"goodluck.h"
+
+1452079782 source:c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck0\goodluck.cpp
+	"goodluck.h"
+	<sstream>
+
+1451994712 c:\users\greti\documents\oktatás\prog\elõadások\7\goodluck0\goodluck.h
+	<string>
+

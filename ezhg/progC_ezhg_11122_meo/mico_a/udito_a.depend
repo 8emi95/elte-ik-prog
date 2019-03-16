@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1465330465 source:d:\elte\15162\prog\prog_ezhg\progc_ezhg_11122 [meo]\mico_a\felsorolo.cpp
+	"felsorolo.h"
+	<stdlib.h>
+	<sstream>
+
+1465330469 d:\elte\15162\prog\prog_ezhg\progc_ezhg_11122 [meo]\mico_a\felsorolo.h
+	<iostream>
+	<vector>
+	<fstream>
+

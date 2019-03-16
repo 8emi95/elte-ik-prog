@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1232888850 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztok\read.cpp
+	"read.h"
+	<iostream>
+
+1232888851 c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztok\read.h
+	<string>
+
+1232966972 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztok\main.cpp
+	<fstream>
+	<iostream>
+	"read.h"
+
+1233424723 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_sorozatba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424723 c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_sorozatba\read.h
+	<string>
+
+1233502546 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_sorozatba\main.cpp
+	<fstream>
+	<iostream>
+	"read.h"
+
+1233424722 source:c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_sorozatba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424722 c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_sorozatba\read.h
+	<string>
+
+1233424723 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\10\osztasi_maradekok_sorozatba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424723 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\10\osztasi_maradekok_sorozatba\read.h
+	<string>
+
+1271591560 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\10\osztasi_maradekok_sorozatba\main.cpp
+	<fstream>
+	<iostream>
+	"read.h"
+
+1233424724 source:c:\users\greti\documents\oktatás\programozás\elõadások10\10\osztasi_maradekok_sorozatba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424724 c:\users\greti\documents\oktatás\programozás\elõadások10\10\osztasi_maradekok_sorozatba\read.h
+	<string>
+
+1233424724 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\osztasi_maradekok_sorozatba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424724 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\osztasi_maradekok_sorozatba\read.h
+	<string>
+
+1271691816 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\osztasi_maradekok_sorozatba\main.cpp
+	<fstream>
+	<iostream>
+	"read.h"
+
+1233424724 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\osztasi_maradekok_sorozatba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424724 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\osztasi_maradekok_sorozatba\read.h
+	<string>
+
+1233424724 source:c:\users\greti\documents\oktatás\programozás\elõadások13\9\osztasi_maradekok_sorozatba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424724 c:\users\greti\documents\oktatás\programozás\elõadások13\9\osztasi_maradekok_sorozatba\read.h
+	<string>
+
+1335203438 source:c:\users\greti\documents\oktatás\programozás\elõadások13\9\osztasi_maradekok_sorozatba\main.cpp
+	<fstream>
+	<iostream>
+	"read.h"
+
+1233424724 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\9\osztasi_maradekok_sorozatba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424724 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\9\osztasi_maradekok_sorozatba\read.h
+	<string>
+
+1233424724 source:c:\users\greti\documents\oktatás\programozás\elõadások14\9\osztasi_maradekok_sorozatba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424724 c:\users\greti\documents\oktatás\programozás\elõadások14\9\osztasi_maradekok_sorozatba\read.h
+	<string>
+
+1396896492 source:c:\users\greti\documents\oktatás\programozás\elõadások14\9\osztasi_maradekok_sorozatba\main.cpp
+	<fstream>
+	<iostream>
+	"read.h"
+
+1428912794 source:c:\users\greti\documents\oktatás\prog\elõadások\9\osztasi_maradekok_sorozatba\read.cpp
+	"read.h"
+	<iostream>
+
+1425979566 c:\users\greti\documents\oktatás\prog\elõadások\9\osztasi_maradekok_sorozatba\read.h
+	<string>
+
+1460798674 source:c:\users\greti\documents\oktatás\prog\elõadások\9\osztasi_maradekok_sorozatba\main.cpp
+	<fstream>
+	<iostream>
+	"read.h"
+
+1460799852 source:c:\users\greti\documents\oktatás\prog\elõadások\9\osztasi_maradekok\main.cpp
+	<fstream>
+	<iostream>
+	"read.hpp"
+
+1460799324 c:\users\greti\documents\oktatás\prog\elõadások\9\osztasi_maradekok\read.hpp
+	<iostream>
+	<string>
+

@@ -1,0 +1,234 @@
+Két tétel párhuzamosan; az egyik maximumkiválasztás. Ellenõrzi az üres fájl esetét - ekkor a max.kiv. nem értelmezett, a másik tétel igen!
+Feladat: számláljuk meg, hány olyan dolgozó van, aki még bent van, és mondjuk meg, ki érkezett meg a leghamarabb.
+
+int c = 0;
+t.First();
+if(!t.End())
+{
+    Adat e = t.Current();    //elso elem ki van emelve
+    if("" == e.ki)
+        ++c;
+    string min = t.Current().be;
+    Adat elem = t.Current();
+    for(t.Next();!t.End();t.Next())
+    {
+        Adat e = t.Current();
+        if("" == e.ki)
+            ++c;
+
+        if(e.be < min)
+        {
+            min = e.be;
+            elem = e;
+        }
+    }
+    cout<<elem.nev<<endl;
+}
+else
+{
+    cout<<"Ures a file, nincs ertelme a minimumot kivalasztani"<<endl;
+}
+cout<<c;
+
+- - -
+
+Két tétel párhuzamosan; az egyik lineáris keresés.
+Feladat: mondjuk meg, volt-e Gy betûvbel kezdõdõ nevû dolgozó, és ha igen, ki. Valamint számláljuk meg, hányan vannak még bent.
+
+bool l = false;
+Adat elem;
+int c = 0;
+for(t.First();!l && !t.End();t.Next())    //vegig a lin. kert, vele parhuzamosan a szamlalast
+{
+    Adat e = t.Current();
+    if("" == e.ki)
+        ++c;
+
+    l = e.nev.length() > 1 && "Gy" == e.nev.substr(0,2);
+    //l = e.nev.length() > 1 && 'G' == e.nev[0] && 'y' == e.nev[1];  //alternativ megoldas
+    elem = e;
+}
+
+for(;!t.End();t.Next())    //befejezem a szamlalast
+{
+    Adat e = t.Current();
+    if("" == e.ki)
+        ++c;
+}
+
+cout<<c<<endl;
+if(l)
+    cout<<elem.nev<<endl;
+else
+    cout<<"Nincs :("<<endl;
+
+- - -
+
+Lineáris keresésnél, amennyiben csak az "l" érdekel minket, akkor át lehet írni összegzésre, ekkor ha két tételt kell párhuzamosítani, egyszerûbb lesz a kód.
+Ez most egy opt. lineáris keresés.
+Feladat: igaz-e, hogy minden dolgozó neve Gy betûvel kezõdik? Valamint, számláljuk meg, hányan vannak még bent.
+
+//osszegzes
+//(H,+,0) ~ (L, es, true)
+bool l = true;
+int c = 0;
+for(t.First();!t.End();t.Next())
+{
+    Adat e = t.Current();
+    if("" == e.ki)
+        ++c;
+    l &= e.nev.length() > 1 && "Gy" == e.nev.substr(0,2);
+}
+
+cout<<c<<endl;
+cout<<l<<endl;
+
+- - -
+
+Pelda arra, ha a bemenet olyan, hogy
+- egy tomb van a felsorolando rekordban, aminek nem tudom a meretet
+- ez a tomb rekordot (mondjuk parokat) tartalmaz
+
+Peldabemenet:
+macsaknev kor(szam) gyerek1Neve gyerek1Neme gyerek2Neve gyerek2Neme (stb) szin
+
+A gyerekek száma bármennyi lehet (akár 0 is)
+
+Header:
+
+#ifndef ENOR_H
+#define ENOR_H
+
+#include<iostream>
+#include<fstream>
+#include<vector>
+
+struct Kiccica
+{
+    std::string nev, nem;
+};
+
+struct Adat
+{
+    std::string nev;
+    int kor;
+    std::vector<Kiccica> kolkok;
+    std::string szin;
+};
+
+class Enor
+{
+    public:
+        Enor(std::string fnev);
+        ~Enor();
+        void First();
+        void Next();
+        Adat Current() const { return akt; }
+        bool End() const { return vege; }
+    private:
+        std::ifstream x;
+        Adat akt;
+        bool vege;
+};
+
+#endif // ENOR_H
+
+Forrásfájl:
+
+#include"enor.h"
+#include<cstdlib>
+#include<sstream>
+
+using namespace std;
+
+Enor::Enor(string fnev)
+{
+    x.open(fnev.c_str());
+    if(x.fail())
+    {
+        cerr<<"Mijau."<<endl;
+        exit(1);
+    }
+}
+
+Enor::~Enor()
+{
+    x.close();
+}
+
+void Enor::Next()
+{
+    string sor;
+    getline(x,sor);
+
+    if(x.fail())
+        vege = true;
+    else
+    {
+        stringstream ss(sor);
+        ss>>akt.nev>>akt.kor;
+
+        akt.kolykok.resize(0);
+        string sv, sv2;
+        ss>>sv;
+        while(ss>>sv2)
+        {
+            Kiccica c;
+            c.nev = sv;
+            c.nem = sv2;
+            akt.kolkok.push_back(c);
+            ss>>sv;
+        }
+        akt.szin = sv;
+    }
+}
+
+Így módosul a Next(), amennyiben a fájl ugyanilyen, de a szin adattag nincs:
+
+void Enor::Next()
+{
+    string sor;
+    getline(x,sor);
+
+    if(x.fail())
+        vege = true;
+    else
+    {
+        stringstream ss(sor);
+        ss>>akt.nev>>akt.kor;
+
+        akt.kolykok.resize(0);
+        string sv, sv2;
+        while(ss>>sv)
+        {
+            ss>>sv2;
+            Kiccica c;
+            c.nev = sv;
+            c.nem = sv2;
+            akt.kolkok.push_back(c);
+        }
+    }
+}
+
+Ellenõrzõ kiírás:
+
+#include <iostream>
+#include"enor.h"
+
+using namespace std;
+
+int main()
+{
+    Enor t("be.txt");
+    for(t.First();!t.End();t.Next())
+    {
+        Adat e = t.Current();
+        cout<<e.nev<<" "<<e.kor<<" ";
+        for(size_t i=0;i<e.kolkok.size();++i)
+            cout<<"("<<e.kolkok[i].nev<<", "<<e.kolkok[i].nem<<") ";
+        cout<<e.szin<<endl;
+    }
+
+    return 0;
+}
+

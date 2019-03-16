@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1453917697 source:c:\users\greti\documents\oktatás\prog\elõadások\6\mixedtype\array.cpp
+	"array.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1453670816 c:\users\greti\documents\oktatás\prog\elõadások\6\mixedtype\array.h
+	<vector>
+	<string>
+	"item.h"
+
+1458456952 source:c:\users\greti\documents\oktatás\prog\elõadások\6\mixedtype\bag.cpp
+	"bag.h"
+
+1458456977 c:\users\greti\documents\oktatás\prog\elõadások\6\mixedtype\bag.h
+	<vector>
+	"object.h"
+
+1456824162 c:\users\greti\documents\oktatás\prog\elõadások\6\mixedtype\item.h
+	<string>
+
+1458455446 source:c:\users\greti\documents\oktatás\prog\elõadások\6\mixedtype\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"bag.h"
+
+1453917673 source:c:\users\greti\documents\oktatás\prog\elõadások\6\mixedtype\item.cpp
+	"item.h"
+
+1458456952 c:\users\greti\documents\oktatás\prog\elõadások\6\mixedtype\object.h
+	<string>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1452275683 source:c:\users\greti\documents\oktatás\prog\elõadások\6\sablon\array.cpp
+	"array.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1452275717 c:\users\greti\documents\oktatás\prog\elõadások\6\sablon\array.h
+	<vector>
+	<string>
+
+1453676760 source:c:\users\greti\documents\oktatás\prog\elõadások\6\sablon\bag.cpp
+	"bag.h"
+
+1453676739 c:\users\greti\documents\oktatás\prog\elõadások\6\sablon\bag.h
+	<vector>
+
+1454006275 source:c:\users\greti\documents\oktatás\prog\elõadások\6\sablon\main.cpp
+	<iostream>
+	<fstream>
+	"bag.hpp"
+
+1454006410 c:\users\greti\documents\oktatás\prog\elõadások\6\sablon\bag.hpp
+	<vector>
+

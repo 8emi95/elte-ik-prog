@@ -1,0 +1,6 @@
+szerencsejatek 5 4 2 7 2 5 7 4 2 8 van
+kabitoszer  12 13 8 19 2 8 15 16 9 10 nincs  
+ruhaipar  8 7 11 13 12 4 9 14 6 7 van 
+szemettelepek 10 10 8 10 9 10 10 7 10 10 nincs 
+vedelem  5 5 5 0 0 5 10 0 5 0 nincs 
+kolcson  0 0 5 0 1 8 0 2 7 5 nincs

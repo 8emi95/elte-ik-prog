@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1464108149 source:c:\users\8emi95\desktop\prog_ko5\bead2_6\t6esml\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<sstream>
+
+1464107515 c:\users\8emi95\desktop\prog_ko5\bead2_6\t6esml\enor.h
+	<iostream>
+	<fstream>
+
+1464107642 source:c:\users\8emi95\desktop\prog_ko5\bead2_6\t6esml\main.cpp
+	<iostream>
+	"enor.h"
+
+1464108149 source:c:\users\8emi95\desktop\prog_ko5\bead2_6\t6esml_2\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<sstream>
+
+1464107515 c:\users\8emi95\desktop\prog_ko5\bead2_6\t6esml_2\enor.h
+	<iostream>
+	<fstream>
+
+1464111374 source:c:\users\8emi95\desktop\prog_ko5\bead2_6\t6esml_2\main.cpp
+	<iostream>
+	"enor.h"
+

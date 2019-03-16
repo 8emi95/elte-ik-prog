@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1233504510 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\11.egyedi felsorolók\karbantartas\ujtorzs.cpp
+	"ujtorzs.h"
+	<iostream>
+	<iomanip>
+
+1233504407 c:\documents and settings\tibor\dokumentumok\programozás\programok\11.egyedi felsorolók\karbantartas\ujtorzs.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233503818 c:\documents and settings\tibor\dokumentumok\programozás\programok\11.egyedi felsorolók\karbantartas\kozos.h
+	<string>
+
+1233249271 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\11.egyedi felsorolók\karbantartas\hiba.cpp
+	"hiba.h"
+	<iostream>
+	<iomanip>
+
+1233504407 c:\documents and settings\tibor\dokumentumok\programozás\programok\11.egyedi felsorolók\karbantartas\hiba.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233503963 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\11.egyedi felsorolók\karbantartas\main.cpp
+	<iostream>
+	<stdlib.h>
+	"kozos.h"
+	"torzs.h"
+	"mod.h"
+	"ujtorzs.h"
+	"hiba.h"
+
+1233504291 c:\documents and settings\tibor\dokumentumok\programozás\programok\11.egyedi felsorolók\karbantartas\torzs.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233504291 c:\documents and settings\tibor\dokumentumok\programozás\programok\11.egyedi felsorolók\karbantartas\mod.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233504460 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\11.egyedi felsorolók\karbantartas\mod.cpp
+	"mod.h"
+	<iostream>
+
+1233504291 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\11.egyedi felsorolók\karbantartas\torzs.cpp
+	"torzs.h"
+	<iostream>
+
+1233508203 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\12\karbantartas\mod.cpp
+	"mod.h"
+	<iostream>
+
+1233507891 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\12\karbantartas\mod.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233507418 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\12\karbantartas\kozos.h
+	<string>
+
+1233508203 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\12\karbantartas\torzs.cpp
+	"torzs.h"
+	<iostream>
+
+1233507891 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\12\karbantartas\torzs.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233508203 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\12\karbantartas\ujtorzs.cpp
+	"ujtorzs.h"
+	<iostream>
+	<iomanip>
+
+1233508007 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\12\karbantartas\ujtorzs.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233508203 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\12\karbantartas\hiba.cpp
+	"hiba.h"
+	<iostream>
+	<iomanip>
+
+1233508007 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások10\12\karbantartas\hiba.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233508204 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\11\karbantartas\mod.cpp
+	"mod.h"
+	<iostream>
+
+1233507892 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\11\karbantartas\mod.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233507420 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\11\karbantartas\kozos.h
+	<string>
+
+1233508204 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\11\karbantartas\torzs.cpp
+	"torzs.h"
+	<iostream>
+
+1233507892 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\11\karbantartas\torzs.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1337165582 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\11\karbantartas\ujtorzs.cpp
+	"ujtorzs.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1233508008 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\11\karbantartas\ujtorzs.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233508204 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\11\karbantartas\hiba.cpp
+	"hiba.h"
+	<iostream>
+	<iomanip>
+
+1233508008 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\11\karbantartas\hiba.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1337165609 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\11\karbantartas\main.cpp
+	<iostream>
+	"kozos.h"
+	"torzs.h"
+	"mod.h"
+	"ujtorzs.h"
+	"hiba.h"
+
+1337165705 source:c:\users\greti\documents\oktatás\prog\elõadások\11\karbantartas\hiba.cpp
+	"hiba.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1233508008 c:\users\greti\documents\oktatás\prog\elõadások\11\karbantartas\hiba.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233507420 c:\users\greti\documents\oktatás\prog\elõadások\11\karbantartas\kozos.h
+	<string>
+
+1337165609 source:c:\users\greti\documents\oktatás\prog\elõadások\11\karbantartas\main.cpp
+	<iostream>
+	"kozos.h"
+	"torzs.h"
+	"mod.h"
+	"ujtorzs.h"
+	"hiba.h"
+
+1233507892 c:\users\greti\documents\oktatás\prog\elõadások\11\karbantartas\torzs.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233507892 c:\users\greti\documents\oktatás\prog\elõadások\11\karbantartas\mod.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1233508008 c:\users\greti\documents\oktatás\prog\elõadások\11\karbantartas\ujtorzs.h
+	<fstream>
+	<string>
+	"kozos.h"
+
+1337165705 source:c:\users\greti\documents\oktatás\prog\elõadások\11\karbantartas\mod.cpp
+	"mod.h"
+	<iostream>
+	<cstdlib>
+
+1337165582 source:c:\users\greti\documents\oktatás\prog\elõadások\11\karbantartas\ujtorzs.cpp
+	"ujtorzs.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

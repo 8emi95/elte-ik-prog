@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1465491323 source:d:\elte\15162\prog\prog_ezhg\pot_ko\2016e\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<sstream>
+	<vector>
+
+1465491323 d:\elte\15162\prog\prog_ezhg\pot_ko\2016e\enor.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1465492271 source:d:\elte\15162\prog\prog_ezhg\pot_ko\2016e\main.cpp
+	<iostream>
+	"enor.h"
+	<vector>
+

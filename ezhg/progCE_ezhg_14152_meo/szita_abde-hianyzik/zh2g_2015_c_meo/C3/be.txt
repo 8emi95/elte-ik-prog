@@ -1,0 +1,7 @@
+15:05:28:10:35  0061  arukod21  arukod13   arukod13   arukod08  arukod21
+15:05:28:10:45  0062  arukod21  arukod52   arukod52   arukod08   arukod52 arukod10
+15:05:28:12:15  0067  arukod01 arukod02 arukod03 arukod05 arukod04 arukod04
+15:05:28:10:55  0063 arukod52  arukod21      arukod52   arukod08  arukod08  arukod08  arukod08  arukod08  arukod08
+15:05:28:11:10  0064  arukod13 arukod52 arukod13
+15:05:28:12:15  0065  arukod52
+15:05:28:12:15  0066  arukod01 arukod02 arukod03 arukod04 arukod04 arukod04

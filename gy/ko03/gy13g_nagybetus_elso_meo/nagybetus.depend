@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1463850410 source:c:\users\8emi95\desktop\prog_ko4\gy13g_nagybetus_elso_meo\enor_file.cpp
+	"enor_file.h"
+
+1464022130 c:\users\8emi95\desktop\prog_ko4\gy13g_nagybetus_elso_meo\enor_file.h
+	<iostream>
+	<fstream>
+	"kozos.h"
+
+1463848964 source:c:\users\8emi95\desktop\prog_ko4\gy13g_nagybetus_elso_meo\enor_string.cpp
+	"enor_string.h"
+
+1463850207 c:\users\8emi95\desktop\prog_ko4\gy13g_nagybetus_elso_meo\enor_string.h
+	<iostream>
+
+1464021033 source:c:\users\8emi95\desktop\prog_ko4\gy13g_nagybetus_elso_meo\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"enor_string.h"
+	"enor_file.h"
+	"enor_mondat.h"
+
+1464021739 c:\users\8emi95\desktop\prog_ko4\gy13g_nagybetus_elso_meo\enor_mondat.h
+	<iostream>
+	<fstream>
+
+1464021490 source:c:\users\8emi95\desktop\prog_ko4\gy13g_nagybetus_elso_meo\enor_mondat.cpp
+	"enor_mondat.h"
+
+1464021735 c:\users\8emi95\desktop\prog_ko4\gy13g_nagybetus_elso_meo\kozos.h
+

@@ -1,0 +1,16 @@
+Adott egy cicákat tartalmazó fájl. Minden cicának van neve, kora, gyermekeinek a listája (nevükkel megadva), valamint színe.
+A cicák nevei egy szóból állnak. Természetesen elõfordulhat, hogy egy macskának nincs kölyke, ekkor a fájlban a kora után a színe követkzik.
+Minden sor egy cicára vonatkozó adatokat tartalmaz.
+Feltehetjük, hogy a fájl helyesen van kitöltve.
+
+Kérdés:
+Hogy hívják a legszaporább cicust, a cirmos cicák között?
+
+Példa:
+Lotti 0 cirmos
+Micu 3 Mico feka
+Fradi 115 Szkukalek Kriston Gera cirmos
+Ujpest 0 Balajcza Rajczi Kabat Vermes lila
+
+Megoldás:
+Fradi

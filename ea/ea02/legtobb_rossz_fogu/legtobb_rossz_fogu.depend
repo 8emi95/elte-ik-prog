@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1326274152 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\2\legtobb_rossz_fogu\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+

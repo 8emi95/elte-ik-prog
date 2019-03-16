@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1463763701 source:d:\elte\15162\prog\prog_ezhg\progce_ezhg_12132 [meo]\pmamico\gzhce_2013\felsorolo.cpp
+	"felsorolo.h"
+	<sstream>
+	<stdlib.h>
+
+1465235025 d:\elte\15162\prog\prog_ezhg\progce_ezhg_12132 [meo]\pmamico\gzhce_2013\felsorolo.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1465233396 source:d:\elte\15162\prog\prog_ezhg\progce_ezhg_12132 [meo]\pmamico\gzhce_2013\main.cpp
+	"felsorolo.h"
+	<iostream>
+

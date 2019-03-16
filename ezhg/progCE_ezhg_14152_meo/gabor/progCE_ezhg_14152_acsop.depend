@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1464125021 source:d:\elte\15162\prog\prog_ezhg\progce_ezhg_14152 [meo]\progce_ezhg_14152_acsop\enor.cpp
+	"enor.h"
+	<vector>
+	<sstream>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1464124469 d:\elte\15162\prog\prog_ezhg\progce_ezhg_14152 [meo]\progce_ezhg_14152_acsop\enor.h
+	<vector>
+	<sstream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1464131630 source:d:\elte\15162\prog\prog_ezhg\progce_ezhg_14152 [meo]\progce_ezhg_14152_acsop\main.cpp
+	<iostream>
+	<fstream>
+	"enor.h"
+

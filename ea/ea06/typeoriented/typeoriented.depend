@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1452275683 source:c:\users\greti\documents\oktatás\prog\elõadások\6\typeoriented\array.cpp
+	"array.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1452275717 c:\users\greti\documents\oktatás\prog\elõadások\6\typeoriented\array.h
+	<vector>
+	<string>
+
+1453803999 source:c:\users\greti\documents\oktatás\prog\elõadások\6\typeoriented\bag.cpp
+	"bag.h"
+
+1453803999 c:\users\greti\documents\oktatás\prog\elõadások\6\typeoriented\bag.h
+	<vector>
+
+1453999737 source:c:\users\greti\documents\oktatás\prog\elõadások\6\typeoriented\main.cpp
+	<iostream>
+	<fstream>
+	"bag.h"
+

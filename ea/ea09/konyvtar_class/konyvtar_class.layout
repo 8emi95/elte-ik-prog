@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="eredm.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="1280" topLine="23" />
+	</File>
+	<File name="eredm.h" open="1" top="0" tabpos="5">
+		<Cursor position="610" topLine="3" />
+	</File>
+	<File name="inp.txt" open="0" top="0" tabpos="8">
+		<Cursor position="59" topLine="0" />
+	</File>
+	<File name="kozos.h" open="1" top="0" tabpos="2">
+		<Cursor position="292" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1062" topLine="10" />
+	</File>
+	<File name="out.txt" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="torzs.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="1853" topLine="34" />
+	</File>
+	<File name="torzs.h" open="1" top="0" tabpos="3">
+		<Cursor position="710" topLine="8" />
+	</File>
+</CodeBlocks_layout_file>

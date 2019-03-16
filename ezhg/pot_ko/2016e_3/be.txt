@@ -1,0 +1,4 @@
+012345 Jancso 10:15 9 G 3 G 5 F
+123456 Spielberg 12:25 10 D 5 D 1 D
+234567 Bergman 14:35 6 F 17 G 21 F
+345678 Fellini 16:45 1 G 2 D 4 F

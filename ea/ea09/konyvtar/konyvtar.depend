@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1240209978 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar\main.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<string>
+
+1304489023 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\konyvtar\main.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+

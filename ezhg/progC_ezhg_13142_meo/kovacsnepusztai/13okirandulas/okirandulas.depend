@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1431274897 source:c:\users\kinga\documents\kinga\programozas\13\infile.cpp
+	"infile.h"
+	<cstdlib>
+	<sstream>
+	<iostream>
+
+1431204473 c:\users\kinga\documents\kinga\programozas\13\infile.h
+	<vector>
+	<fstream>
+	<string>
+
+1431207626 source:c:\users\kinga\documents\kinga\programozas\13\main.cpp
+	<iostream>
+	"infile.h"
+	<cstdlib>
+	<sstream>
+
+1431211228 source:d:\elte\15162\prog\prog_ezhg\progc_ezhg_13142 [meo]\kovacsnepusztai\13okirandulas\main.cpp
+	<iostream>
+	"infile.h"
+	<cstdlib>
+	<sstream>
+
+1431208074 d:\elte\15162\prog\prog_ezhg\progc_ezhg_13142 [meo]\kovacsnepusztai\13okirandulas\infile.h
+	<vector>
+	<fstream>
+	<string>
+

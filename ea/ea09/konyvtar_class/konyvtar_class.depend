@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1240210149 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar_class\main.cpp
+	<fstream>
+	<string>
+	"torzs.h"
+	"eredm.h"
+	"kozos.h"
+
+1233506290 c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar_class\torzs.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1233506338 c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar_class\kozos.h
+	<string>
+
+1240301276 c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar_class\eredm.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1240742270 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar_class\torzs.cpp
+	"torzs.h"
+	<iostream>
+
+1240742304 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar_class\eredm.cpp
+	"eredm.h"
+	<iostream>
+	<iomanip>
+
+1233506418 source:c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar_class\torzs.cpp
+	"torzs.h"
+	<iostream>
+
+1233506290 c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar_class\torzs.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1233506338 c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar_class\kozos.h
+	<string>
+
+1240210148 source:c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar_class\main.cpp
+	<fstream>
+	<string>
+	"torzs.h"
+	"eredm.h"
+	"kozos.h"
+
+1240301277 c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\konyvtar_class\eredm.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1240210150 source:c:\users\greti\documents\oktatás\programozás\elõadások10\10\konyvtar_class\main.cpp
+	<fstream>
+	<string>
+	"torzs.h"
+	"eredm.h"
+	"kozos.h"
+
+1233506292 c:\users\greti\documents\oktatás\programozás\elõadások10\10\konyvtar_class\torzs.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1233506340 c:\users\greti\documents\oktatás\programozás\elõadások10\10\konyvtar_class\kozos.h
+	<string>
+
+1240301276 c:\users\greti\documents\oktatás\programozás\elõadások10\10\konyvtar_class\eredm.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1240742306 source:c:\users\greti\documents\oktatás\programozás\elõadások10\10\konyvtar_class\eredm.cpp
+	"eredm.h"
+	<iostream>
+	<iomanip>
+
+1304488976 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\konyvtar_class\eredm.cpp
+	"eredm.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1304488975 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\konyvtar_class\eredm.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1233506340 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\konyvtar_class\kozos.h
+	<string>
+
+1304488873 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\konyvtar_class\main.cpp
+	<fstream>
+	<string>
+	"torzs.h"
+	"eredm.h"
+	"kozos.h"
+
+1304488898 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\konyvtar_class\torzs.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1304488921 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\konyvtar_class\torzs.cpp
+	"torzs.h"
+	<iostream>
+	<cstdlib>
+
+1304489065 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\konyvtar_class\main.cpp
+	<fstream>
+	<string>
+	"torzs.h"
+	"eredm.h"
+	"kozos.h"
+
+1304488898 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\konyvtar_class\torzs.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1233506340 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\konyvtar_class\kozos.h
+	<string>
+
+1304488975 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\konyvtar_class\eredm.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1335249118 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\konyvtar_class\torzs.cpp
+	"torzs.h"
+	<iostream>
+	<cstdlib>
+
+1304488976 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\konyvtar_class\eredm.cpp
+	"eredm.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1335249118 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\9\konyvtar_class\torzs.cpp
+	"torzs.h"
+	<iostream>
+	<cstdlib>
+
+1304488898 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\9\konyvtar_class\torzs.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1233506340 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\9\konyvtar_class\kozos.h
+	<string>
+
+1304488976 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\9\konyvtar_class\eredm.cpp
+	"eredm.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1304488975 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\9\konyvtar_class\eredm.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1366530678 source:c:\users\greti\documents\oktatás\programozás\elõadások14\9\konyvtar_class\main.cpp
+	<fstream>
+	<string>
+	"torzs.h"
+	"eredm.h"
+	"kozos.h"
+
+1304488898 c:\users\greti\documents\oktatás\programozás\elõadások14\9\konyvtar_class\torzs.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1233506340 c:\users\greti\documents\oktatás\programozás\elõadások14\9\konyvtar_class\kozos.h
+	<string>
+
+1304488974 c:\users\greti\documents\oktatás\programozás\elõadások14\9\konyvtar_class\eredm.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1335249118 source:c:\users\greti\documents\oktatás\programozás\elõadások14\9\konyvtar_class\torzs.cpp
+	"torzs.h"
+	<iostream>
+	<cstdlib>
+
+1304488976 source:c:\users\greti\documents\oktatás\programozás\elõadások14\9\konyvtar_class\eredm.cpp
+	"eredm.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1428929128 source:c:\users\greti\documents\oktatás\prog\elõadások\9\konyvtar_class\main.cpp
+	<fstream>
+	<string>
+	"torzs.h"
+	"eredm.h"
+	"kozos.h"
+
+1428918421 c:\users\greti\documents\oktatás\prog\elõadások\9\konyvtar_class\torzs.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1428929118 c:\users\greti\documents\oktatás\prog\elõadások\9\konyvtar_class\kozos.h
+	<string>
+
+1428918421 c:\users\greti\documents\oktatás\prog\elõadások\9\konyvtar_class\eredm.h
+	"kozos.h"
+	<fstream>
+	<string>
+
+1335249118 source:c:\users\greti\documents\oktatás\prog\elõadások\9\konyvtar_class\torzs.cpp
+	"torzs.h"
+	<iostream>
+	<cstdlib>
+
+1304488976 source:c:\users\greti\documents\oktatás\prog\elõadások\9\konyvtar_class\eredm.cpp
+	"eredm.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

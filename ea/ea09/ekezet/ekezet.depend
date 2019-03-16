@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1396880889 source:c:\users\greti\documents\oktatás\programozás\elõadások14\9\ekezet\main.cpp
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<sstream>
+
+1428743018 source:c:\users\greti\documents\oktatás\prog\elõadások\9\ekezet\main.cpp
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<sstream>
+

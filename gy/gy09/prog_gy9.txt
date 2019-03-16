@@ -1,0 +1,17 @@
+adottak prog csoportok jegyei mátrixban
+minden sora egy csoport
+minden elem neptunkód-jegy pár (0, ha nincs jegy)
+minden csoport legalább 1 tagú
+
+AAAAAA,4 BBBBBB,2
+CCCCCC,4 DDDDDD,2 EEEEEE,2
+FFFFFF,4
+
+volt-e olyan csoport a min 2tagúak közül ahol mindenki megbukott?
+
+vector<vector<Hallgato>>
+{
+	{(AAAAAA,4) (BBBBBB,2) };
+	{(CCCCCC,4) (DDDDDD,2) (EEEEEE,2) };
+	{(FFFFFF,4) };
+}

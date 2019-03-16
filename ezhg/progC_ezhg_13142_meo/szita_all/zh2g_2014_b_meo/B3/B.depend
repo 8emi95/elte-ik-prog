@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1401588979 source:d:\elte\15162\prog\prog_ezhg\progc_ezhg_13142 [meo]\szita\zh2g_2014_b_meo\b3\enor.cpp
+	"enor.h"
+	<sstream>
+	<cstdlib>
+
+1401588803 d:\elte\15162\prog\prog_ezhg\progc_ezhg_13142 [meo]\szita\zh2g_2014_b_meo\b3\enor.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1431876087 source:d:\elte\15162\prog\prog_ezhg\progc_ezhg_13142 [meo]\szita\zh2g_2014_b_meo\b3\main.cpp
+	<iostream>
+	"enor.h"
+

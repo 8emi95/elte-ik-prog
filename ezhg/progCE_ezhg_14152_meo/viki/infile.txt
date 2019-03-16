@@ -1,0 +1,36 @@
+#ifndef INFILE_H_INCLUDED
+#define INFILE_H_INCLUDED
+
+#include <vector>
+#include <fstream>
+#include <string>
+
+using namespace std;
+
+struct vasarlas
+{
+    string ido;
+    string kod;
+    vector<string> aruk;
+};
+
+enum Status {abnorm,norm};
+
+class infile
+{
+    private:
+        ifstream f;
+        vasarlas elem;
+        Status st;
+    public:
+        infile(string fname="");
+        void First() {read();}
+        void Next() {read();}
+        bool End() const {return st==abnorm;}
+        vasarlas Current() const {return elem;}
+        ~infile() {f.close();}
+
+        void read();
+};
+
+#endif // INFILE_H_INCLUDED

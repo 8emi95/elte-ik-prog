@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1294814795 source:c:\documents and settings\tibor\dokumentumok\elte\nyíltnap\faktorialis\main.cpp
+	<iostream>
+	"bignumber.h"
+
+1261581736 source:f:\prog\faktorialis\main.cpp
+	<iostream>
+
+1294814841 source:c:\documents and settings\tibor\dokumentumok\elte\nyíltnap\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1294814944 c:\documents and settings\tibor\dokumentumok\elte\nyíltnap\faktorialis\bignumber.h
+	<iostream>
+
+1286964942 source:e:\nyíltnap\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1286964292 e:\nyíltnap\faktorialis\bignumber.h
+	<iostream>
+
+1286973808 source:e:\nyíltnap\faktorialis\main.cpp
+	<iostream>
+	<iomanip>
+	"bignumber.h"
+
+1294409591 source:c:\users\greti\documents\nyíltnap\faktorialis\main.cpp
+	<iostream>
+	"bignumber.h"
+
+1294814946 c:\users\greti\documents\nyíltnap\faktorialis\bignumber.h
+	<iostream>
+
+1294814842 source:c:\users\greti\documents\nyíltnap\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1319258704 source:c:\documents and settings\tibor\dokumentumok\elte\rendezvenyek\nyíltnap\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1296042930 c:\documents and settings\tibor\dokumentumok\elte\rendezvenyek\nyíltnap\faktorialis\bignumber.h
+	<iostream>
+
+1320997029 source:c:\documents and settings\tibor\dokumentumok\oktatás\progalap\elõadás\programok\faktorialis\main.cpp
+	<iostream>
+	"bignumber.h"
+
+1324883188 c:\documents and settings\tibor\dokumentumok\oktatás\progalap\elõadás\programok\faktorialis\bignumber.h
+	<iostream>
+	<vector>
+
+1324883272 source:c:\documents and settings\tibor\dokumentumok\oktatás\progalap\elõadás\programok\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1324883316 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\programok\1\faktorialis\main.cpp
+	<iostream>
+	"bignumber.h"
+
+1324892313 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\programok\1\faktorialis\bignumber.h
+	<iostream>
+	<vector>
+
+1327994511 source:c:\users\greti\documents\oktatás\programozás\elõadások12\1\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1327994388 c:\users\greti\documents\oktatás\programozás\elõadások12\1\faktorialis\bignumber.h
+	<iostream>
+	<vector>
+
+1329150630 source:c:\users\greti\documents\oktatás\programozás\elõadások12\1\faktorialis\main.cpp
+	<iostream>
+	"bignumber.h"
+
+1326612209 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\1\faktorialis\main.cpp
+	<iostream>
+	"bignumber.h"
+
+1326612947 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\1\faktorialis\bignumber.h
+	<iostream>
+	<vector>
+
+1326612061 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\1\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1359876159 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\1\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1359876159 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások13\1\faktorialis\bignumber.h
+	<iostream>
+	<vector>
+
+1359876159 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\1\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1359876159 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\1\faktorialis\bignumber.h
+	<iostream>
+	<vector>
+
+1359876160 source:c:\users\greti\documents\oktatás\programozás\elõadások14\1\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1359876160 c:\users\greti\documents\oktatás\programozás\elõadások14\1\faktorialis\bignumber.h
+	<iostream>
+	<vector>
+
+1392194565 source:c:\users\greti\documents\oktatás\programozás\elõadások14\1\faktorialis\main.cpp
+	<iostream>
+
+1426415797 source:c:\users\greti\documents\oktatás\prog\elõadások\6\ab\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1426249182 c:\users\greti\documents\oktatás\prog\elõadások\6\ab\faktorialis\bignumber.h
+	<iostream>
+
+1426416204 source:c:\users\greti\documents\oktatás\prog\elõadások\6\ab\faktorialis\main.cpp
+	<iostream>
+	"bignumber.h"
+
+1461957992 source:c:\users\greti\documents\oktatás\prog\elõadások\12\faktorialis\main.cpp
+	<iostream>
+	"bignumber.h"
+	"read.hpp"
+
+1462530656 c:\users\greti\documents\oktatás\prog\elõadások\12\faktorialis\bignumber.h
+	<iostream>
+
+1425979566 c:\users\greti\documents\oktatás\prog\elõadások\12\faktorialis\read.h
+	<string>
+
+1425979590 source:c:\users\greti\documents\oktatás\prog\elõadások\12\faktorialis\read.cpp
+	"read.h"
+	<iostream>
+
+1461958400 source:c:\users\greti\documents\oktatás\prog\elõadások\12\faktorialis\bignumber.cpp
+	"bignumber.h"
+	<iostream>
+
+1460799326 c:\users\greti\documents\oktatás\prog\elõadások\12\faktorialis\read.hpp
+	<iostream>
+	<string>
+

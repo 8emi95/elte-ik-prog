@@ -1,0 +1,12 @@
+Bulátovity László
+Konkrétan ugyanaz volt a feladat, mint a papíros zh-n a harmadik. Vetítések adatait tároljuk egy fájlban. Egy sor adatai: vetítés címe (string), melyik teremben volt (string), mikor kezdõdött(HH:MM alakú string), melyik helyet foglalta el valaki(sima szám), és egy darab karakter G,D vagy F. G az gyerek, D diák, F pedig felnõttjegy lett vásárolva. Ezek sorban 500, 800, 1000 forintot érve. Az egész idõpontok szerint van rendezve, és nem volt olyan vetítés, ami ütközött volna egy másiknak az idõpontjával. 
+A.) csoport feladatai:
+Megfeleltért: A vetítés címe elég volt, ha egy szóból áll, valamint meg kellett keresni, hogy melyik hozta a legtöbb bevételt.
+Ötösért: A vetítés címe több szóból is állhat (pl. Harry Potter asd), meg el kellett dönteni, hogy volt-e olyan vetítés, ahol csak diákjegyet vettek.
+
+***
+
+Palkovics Beáta
+a mi (13:00)-s feladatunk az volt, hogy meg van adva egy fájl, amiben soronként a következõ adatok vannak szóközzel/tabbal elválasztva: név(string), azonosító(8 jegyû szám), idõ (pl 10:21) , járatszám(pl 13E)
+és akkor kérdés hogy hány utas utazott csak(!!) a 7E-s járattal. (megfelelt jegyért)
+illetve még megfelelthez feltehetjük azt h a fájlban a nevek nem, csak az azonosítók szerepelnek. kiválóan megfelelthez viszont a nevek állhatnak több szóból (pl Kiss Pista)

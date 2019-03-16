@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461609968 source:c:\users\8emi95\desktop\prog ko3\prog_ko3_fagyi\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

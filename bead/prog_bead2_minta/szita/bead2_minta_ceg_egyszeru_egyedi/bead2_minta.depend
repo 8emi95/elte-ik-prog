@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1463920501 source:d:\elte\15162\prog\prog_bead\prog_bead2\_minta\szita\bead2_minta_ceg_egyszeru_egyedi\enor.cpp
+	"enor.h"
+	<sstream>
+	<cstdlib>
+
+1463919853 d:\elte\15162\prog\prog_bead\prog_bead2\_minta\szita\bead2_minta_ceg_egyszeru_egyedi\enor.h
+	<iostream>
+	<fstream>
+	<vector>
+

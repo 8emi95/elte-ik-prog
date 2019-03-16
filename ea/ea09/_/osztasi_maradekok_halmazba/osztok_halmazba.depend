@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1232966655 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztok_halmazba\main.cpp
+	<fstream>
+	<iostream>
+	"halmaz.h"
+	"read.h"
+
+1232966135 c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztok_halmazba\halmaz.h
+	<vector>
+	<iostream>
+
+1232888851 c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztok_halmazba\read.h
+	<string>
+
+1232888850 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztok_halmazba\read.cpp
+	"read.h"
+	<iostream>
+
+1232966190 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztok_halmazba\halmaz.cpp
+	"halmaz.h"
+
+1233424723 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_halmazba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424723 c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_halmazba\read.h
+	<string>
+
+1240209576 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_halmazba\main.cpp
+	<fstream>
+	<iostream>
+	"halmaz.h"
+	"read.h"
+
+1233424121 c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_halmazba\halmaz.h
+	<vector>
+	<iostream>
+
+1233424182 source:c:\documents and settings\tibor\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_halmazba\halmaz.cpp
+	"halmaz.h"
+
+1233424722 source:c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_halmazba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424722 c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_halmazba\read.h
+	<string>
+
+1233424182 source:c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_halmazba\halmaz.cpp
+	"halmaz.h"
+
+1233424120 c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_halmazba\halmaz.h
+	<vector>
+	<iostream>
+
+1240239548 source:c:\documents and settings\greti\dokumentumok\programozás\programok\10.nevezetes felsorolók\osztasi_maradekok_halmazba\main.cpp
+	<fstream>
+	<iostream>
+	"halmaz.h"
+	"read.h"
+
+1233424724 source:c:\users\greti\documents\oktatás\programozás\elõadások10\10\osztasi_maradekok_halmazba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424724 c:\users\greti\documents\oktatás\programozás\elõadások10\10\osztasi_maradekok_halmazba\read.h
+	<string>
+
+1233424184 source:c:\users\greti\documents\oktatás\programozás\elõadások10\10\osztasi_maradekok_halmazba\halmaz.cpp
+	"halmaz.h"
+
+1233424122 c:\users\greti\documents\oktatás\programozás\elõadások10\10\osztasi_maradekok_halmazba\halmaz.h
+	<vector>
+	<iostream>
+
+1233424724 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\osztasi_maradekok_halmazba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424724 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\osztasi_maradekok_halmazba\read.h
+	<string>
+
+1233424184 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\osztasi_maradekok_halmazba\halmaz.cpp
+	"halmaz.h"
+
+1233424122 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások11\programok\10\osztasi_maradekok_halmazba\halmaz.h
+	<vector>
+	<iostream>
+
+1335203081 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\osztasi_maradekok_halmazba\main.cpp
+	<fstream>
+	<iostream>
+	"halmaz.h"
+	"read.h"
+
+1335203322 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\osztasi_maradekok_halmazba\halmaz.h
+	<vector>
+	<fstream>
+
+1233424724 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\osztasi_maradekok_halmazba\read.h
+	<string>
+
+1233424724 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\osztasi_maradekok_halmazba\read.cpp
+	"read.h"
+	<iostream>
+
+1335203322 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások12\9\osztasi_maradekok_halmazba\halmaz.cpp
+	"halmaz.h"
+
+1366034147 source:c:\users\greti\documents\oktatás\programozás\elõadások13\9\osztasi_maradekok_halmazba\main.cpp
+	<fstream>
+	<iostream>
+	"halmaz.h"
+	"read.h"
+
+1366034123 c:\users\greti\documents\oktatás\programozás\elõadások13\9\osztasi_maradekok_halmazba\halmaz.h
+	<vector>
+	<fstream>
+
+1233424724 c:\users\greti\documents\oktatás\programozás\elõadások13\9\osztasi_maradekok_halmazba\read.h
+	<string>
+
+1233424724 source:c:\users\greti\documents\oktatás\programozás\elõadások13\9\osztasi_maradekok_halmazba\read.cpp
+	"read.h"
+	<iostream>
+
+1366034107 source:c:\users\greti\documents\oktatás\programozás\elõadások13\9\osztasi_maradekok_halmazba\halmaz.cpp
+	"halmaz.h"
+
+1233424724 source:c:\users\greti\documents\oktatás\programozás\elõadások14\9\osztasi_maradekok_halmazba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424724 c:\users\greti\documents\oktatás\programozás\elõadások14\9\osztasi_maradekok_halmazba\read.h
+	<string>
+
+1366034107 source:c:\users\greti\documents\oktatás\programozás\elõadások14\9\osztasi_maradekok_halmazba\halmaz.cpp
+	"halmaz.h"
+
+1397034347 c:\users\greti\documents\oktatás\programozás\elõadások14\9\osztasi_maradekok_halmazba\halmaz.h
+	<vector>
+	<fstream>
+
+1233424724 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\9\osztasi_maradekok_halmazba\read.cpp
+	"read.h"
+	<iostream>
+
+1233424724 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\9\osztasi_maradekok_halmazba\read.h
+	<string>
+
+1366034108 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\9\osztasi_maradekok_halmazba\halmaz.cpp
+	"halmaz.h"
+
+1366034124 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\elõadások14\9\osztasi_maradekok_halmazba\halmaz.h
+	<vector>
+	<fstream>
+
+1428742976 source:c:\users\greti\documents\oktatás\prog\elõadások\9\osztasi_maradekok_halmazba\main.cpp
+	<fstream>
+	<iostream>
+	"halmaz.h"
+	"read.h"
+
+1428742396 c:\users\greti\documents\oktatás\prog\elõadások\9\osztasi_maradekok_halmazba\halmaz.h
+	<vector>
+	<fstream>
+
+1425979568 c:\users\greti\documents\oktatás\prog\elõadások\9\osztasi_maradekok_halmazba\read.h
+	<string>
+
+1428742370 source:c:\users\greti\documents\oktatás\prog\elõadások\9\osztasi_maradekok_halmazba\halmaz.cpp
+	"halmaz.h"
+
+1425979592 source:c:\users\greti\documents\oktatás\prog\elõadások\9\osztasi_maradekok_halmazba\read.cpp
+	"read.h"
+	<iostream>
+

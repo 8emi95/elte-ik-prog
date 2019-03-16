@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1451650254 source:f:\new\halmazrepr\halmazrepr2\arraysetrepr.cpp
+	"arraysetrepr.h"
+	"set.h"
+
+1451721136 f:\new\halmazrepr\halmazrepr2\arraysetrepr.h
+	"setrepr.h"
+
+1451649778 f:\new\halmazrepr\halmazrepr2\setrepr.h
+	"enumerator.h"
+
+1451648858 f:\new\halmazrepr\halmazrepr2\enumerator.h
+
+1451717786 f:\new\halmazrepr\halmazrepr2\set.h
+	"setrepr.h"
+	"mapsetrepr.h"
+	"arraysetrepr.h"
+	"enumerator.h"
+
+1451721556 f:\new\halmazrepr\halmazrepr2\mapsetrepr.h
+	"setrepr.h"
+
+1451722034 source:f:\new\halmazrepr\halmazrepr2\main.cpp
+	<iostream>
+	"set.h"
+	"enumerator.h"
+
+1451650254 source:f:\new\halmazrepr\halmazrepr2\mapsetrepr.cpp
+	"mapsetrepr.h"
+	"set.h"
+
+1451648840 f:\new\halmazrepr\halmazrepr2\setenumerator.h
+
+1451722034 source:f:\new\halmazrepr_új\halmazrepr2\main.cpp
+	<iostream>
+	"set.h"
+	"enumerator.h"
+
+1451717786 f:\new\halmazrepr_új\halmazrepr2\set.h
+	"setrepr.h"
+	"mapsetrepr.h"
+	"arraysetrepr.h"
+	"enumerator.h"
+
+1451649778 f:\new\halmazrepr_új\halmazrepr2\setrepr.h
+	"enumerator.h"
+
+1451897800 f:\new\halmazrepr_új\halmazrepr2\enumerator.h
+
+1451897720 f:\new\halmazrepr_új\halmazrepr2\mapsetrepr.h
+	"setrepr.h"
+	<vector>
+
+1451897546 f:\new\halmazrepr_új\halmazrepr2\arraysetrepr.h
+	"setrepr.h"
+	<vector>
+
+1451897546 source:f:\new\halmazrepr_új\halmazrepr2\arraysetrepr.cpp
+	"arraysetrepr.h"
+	"set.h"
+
+1451897136 source:f:\new\halmazrepr_új\halmazrepr2\mapsetrepr.cpp
+	"mapsetrepr.h"
+	"set.h"
+
+1453021044 source:c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr2\arraysetrepr.cpp
+	"arraysetrepr.h"
+	"set.h"
+
+1453020977 c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr2\arraysetrepr.h
+	<vector>
+	"setrepr.h"
+
+1451649778 c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr2\setrepr.h
+	"enumerator.h"
+
+1451897800 c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr2\enumerator.h
+
+1451717786 c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr2\set.h
+	"setrepr.h"
+	"mapsetrepr.h"
+	"arraysetrepr.h"
+	"enumerator.h"
+
+1452973775 c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr2\mapsetrepr.h
+	"setrepr.h"
+	<vector>
+
+1451898336 source:c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr2\main.cpp
+	<iostream>
+	"set.h"
+	"enumerator.h"
+
+1452973029 source:c:\users\greti\documents\oktatás\prog\elõadások\12\halmazrepr2\mapsetrepr.cpp
+	"mapsetrepr.h"
+	"set.h"
+

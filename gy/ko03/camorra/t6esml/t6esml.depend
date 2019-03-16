@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1464027678 source:c:\users\8emi95\desktop\prog_ko4\camorra\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<sstream>
+
+1464026117 c:\users\8emi95\desktop\prog_ko4\camorra\enor.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1464026296 source:c:\users\8emi95\desktop\prog_ko4\camorra\t6esml\main.cpp
+	<iostream>
+	"enor.h"
+
+1464026083 c:\users\8emi95\desktop\prog_ko4\camorra\t6esml\enor.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1464030212 source:d:\elte\15162\prog\prog_gy\prog_ko4\camorra\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<sstream>
+
+1464030211 d:\elte\15162\prog\prog_gy\prog_ko4\camorra\enor.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1464030234 source:d:\elte\15162\prog\prog_gy\prog_ko4\camorra\t6esml\main.cpp
+	<iostream>
+	"enor.h"
+
+1464026083 d:\elte\15162\prog\prog_gy\prog_ko4\camorra\t6esml\enor.h
+	<iostream>
+	<fstream>
+	<vector>
+

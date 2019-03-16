@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1453998484 source:c:\users\greti\documents\oktatás\prog\elõadások\6\objectoriented\bag.cpp
+	"bag.h"
+
+1452276000 c:\users\greti\documents\oktatás\prog\elõadások\6\objectoriented\bag.h
+	<vector>
+
+1452276515 source:c:\users\greti\documents\oktatás\prog\elõadások\6\objectoriented\main.cpp
+	"menu.h"
+
+1453998408 c:\users\greti\documents\oktatás\prog\elõadások\6\objectoriented\menu.h
+	"bag.h"
+
+1453998408 source:c:\users\greti\documents\oktatás\prog\elõadások\6\objectoriented\menu.cpp
+	"menu.h"
+	<iostream>
+

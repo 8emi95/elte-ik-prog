@@ -1,0 +1,4 @@
+Peti		2
+Misi		3
+Jani		10
+Eszti		2

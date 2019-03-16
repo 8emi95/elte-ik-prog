@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459359785 source:c:\users\virag004\desktop\gyak7\spanyol\main.cpp
+	<fstream>
+	<iostream>
+	<vector>
+

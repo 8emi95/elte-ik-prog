@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1360072652 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\beadandók\2ce\hf2\main.cpp
+	<iostream>
+	"enor.h"
+
+1360072680 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\beadandók\2ce\hf2\enor.h
+	<fstream>
+
+1360073187 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\beadandók\2ce\hf2\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<iostream>
+
+1360073188 source:c:\users\greti\documents\oktatás\programozás\beadandók\2ce\hf2\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<iostream>
+
+1367827066 c:\users\greti\documents\oktatás\programozás\beadandók\2ce\hf2\enor.h
+	<fstream>
+
+1367827077 source:c:\users\greti\documents\oktatás\programozás\beadandók\2ce\hf2\main.cpp
+	<iostream>
+	"enor.h"
+
+1367827206 source:c:\users\greti\documents\oktatás\prog\beadandók\2ce\hf2\seqinfile.cpp
+	"seqinfile.h"
+	<cstdlib>
+	<iostream>
+
+1367828203 c:\users\greti\documents\oktatás\prog\beadandók\2ce\hf2\seqinfile.h
+	<fstream>
+
+1367827126 source:c:\users\greti\documents\oktatás\prog\beadandók\2ce\hf2\vizsgajegy.cpp
+	<iostream>
+	"seqinfile.h"
+
+1367830808 source:d:\elte\15162\prog\prog_bead\prog_bead2\_minta\gt\seqinfile.cpp
+	"seqinfile.h"
+	<cstdlib>
+	<iostream>
+
+1367831804 d:\elte\15162\prog\prog_bead\prog_bead2\_minta\gt\seqinfile.h
+	<fstream>
+
+1367830726 source:d:\elte\15162\prog\prog_bead\prog_bead2\_minta\gt\vizsgajegy.cpp
+	<iostream>
+	"seqinfile.h"
+

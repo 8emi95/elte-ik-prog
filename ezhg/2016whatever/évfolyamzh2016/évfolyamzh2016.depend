@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1464205302 source:d:\suli\4. félév\prog\prog gy\zhgyak\évfolyamzh2016\main.cpp
+	<iostream>
+	<cstdlib>
+	"felsorolo.h"
+
+1464190192 d:\suli\4. félév\prog\prog gy\zhgyak\évfolyamzh2016\include\felsorolo.h
+	<vector>
+	<fstream>
+
+1464205328 source:d:\suli\4. félév\prog\prog gy\zhgyak\évfolyamzh2016\src\felsorolo.cpp
+	"felsorolo.h"
+	<sstream>
+	<iostream>
+	<cstdlib>
+

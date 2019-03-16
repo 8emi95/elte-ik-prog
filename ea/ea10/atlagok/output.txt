@@ -1,0 +1,3 @@
+karcsi     4
+olga       3
+pisti      2
